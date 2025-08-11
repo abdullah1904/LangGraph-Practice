@@ -6,5 +6,6 @@ langchain-groq
 
 langgraph
 
+pydantic
 python-dotenv
 grandalf

@@ -5,6 +5,7 @@ langchain-community
 langchain-groq
 
 langgraph
+langgraph-checkpoint-sqlite
 
 streamlit
 
